@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\bin\Release\NoDistribute Scaner.exe
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\bin\Release\NoDistribute Scaner.pdb
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Release\NoDistribute_Scaner.Form1.resources
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Release\NoDistribute_Scaner.Properties.Resources.resources
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Release\NoDistribute Scaner.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Release\NoDistribute Scaner.exe
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Release\NoDistribute Scaner.pdb

@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\bin\Debug\NoDistribute Scaner.exe
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\bin\Debug\NoDistribute Scaner.pdb
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute_Scaner.Form1.resources
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute_Scaner.Properties.Resources.resources
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.exe
+C:\Users\admin\Desktop\NoDistrib\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.pdb
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.exe
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.pdb
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\bin\Debug\NoDistribute Scaner.exe
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\bin\Debug\NoDistribute Scaner.pdb
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.csprojResolveAssemblyReference.cache
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute_Scaner.Form1.resources
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute_Scaner.Properties.Resources.resources
+F:\GitHub\NoDistribute Scaner\NoDistribute Scaner\obj\Debug\NoDistribute Scaner.csproj.GenerateResource.Cache
